@@ -4,9 +4,9 @@
 
 <p align=center>
 <table>
-<tr><td>Quiizer helps you to create quizzes for your community events, student and teachers and random too.
+<tr><td>Quizzer helps you to create random and fun quizzes for your community-events, students and teachers.
 <br>
-It also helps you to manage and perform various operations in the quiz, such as real time question correction and lot more.
+It also helps you to manage and reform various operations in the quiz, such as real time changes in questions, options and lot more features coming up.
 </td>
 </tr>
 </table>
@@ -27,9 +27,9 @@ Each worksheet contains
 </tr>
 <tr>
 <td>
-userID</td><td>String</td><td>YES</td><td> The id of the quiz creator.</td></tr>
+userID</td><td>String</td><td>YES</td><td> The id of the quiz Organizer.</td></tr>
 <tr>
-<td>questions</td><td>Quiz</td><td>YES</td> <td>array of Quiz Model</td> </tr>
+<td>Questions</td><td>Quiz</td><td>YES</td> <td>array of Quiz Models</td> </tr>
 </table>
 
 
@@ -45,8 +45,8 @@ Each Quiz contains.
 </tr>
 <tr>
 <td>
-question</td><td>String</td><td>YES</td><td> Question to be asked</td></tr>
+Question</td><td>String</td><td>YES</td><td> Question to be asked</td></tr>
 <tr>
-<td>options</td><td>array of option having String type and  enum a,b,c,d</td><td>YES</td> <td>Choices for question</td></tr>
-<tr><td>answer</td><td>String having enum a,b,c,d</td><td>YES</td><td>correct answer for the question</td></tr>
+<td>Options</td><td>array of option having String type and enum a,b,c,d</td><td>YES</td> <td>Choices for question</td></tr>
+<tr><td>Answer</td><td>String having enum a,b,c,d</td><td>YES</td><td>Correct answer for the question</td></tr>
 </table>
