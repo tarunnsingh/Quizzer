@@ -78,9 +78,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Ask-Subhasmita"><img src="https://avatars2.githubusercontent.com/u/57298668?v=4" width="100px;" alt=""/><br /><sub><b>Subhasmita Swain</b></sub></a><br /><a href="#content-Ask-Subhasmita" title="Content">🖋</a></td>
     <td align="center"><a href="http://www.linkedin.com/in/imabp"><img src="https://avatars3.githubusercontent.com/u/53480076?v=4" width="100px;" alt=""/><br /><sub><b>Abir</b></sub></a><br /><a href="https://github.com/Ninja-Developers/Quizzer/commits?author=imabp" title="Code">💻</a></td>
     <td align="center"><a href="https://souvik210899.herokuapp.com/"><img src="https://avatars0.githubusercontent.com/u/41781438?v=4" width="100px;" alt=""/><br /><sub><b>souvik</b></sub></a><br /><a href="https://github.com/Ninja-Developers/Quizzer/commits?author=Souvikns" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Ask-Subhasmita"><img src="https://avatars2.githubusercontent.com/u/57298668?v=4" width="100px;" alt=""/><br /><sub><b>Subhasmita Swain</b></sub></a><br /><a href="#content-Ask-Subhasmita" title="Content">🖋</a></td>
   </tr>
 </table>
 
