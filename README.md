@@ -1,4 +1,7 @@
 <p align=center>
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <img src="./assets/ReadmeHeader.png"/>
 </p>
 
@@ -66,3 +69,21 @@ Question</td><td>String</td><td>YES</td><td> Question to be asked</td></tr>
 <td>Options</td><td>array of option having String type and enum a,b,c,d</td><td>YES</td> <td>Choices for question</td></tr>
 <tr><td>Answer</td><td>String having enum a,b,c,d</td><td>YES</td><td>Correct answer for the question</td></tr>
 </table>
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Ask-Subhasmita"><img src="https://avatars2.githubusercontent.com/u/57298668?v=4" width="100px;" alt=""/><br /><sub><b>Subhasmita Swain</b></sub></a><br /><a href="#content-Ask-Subhasmita" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
