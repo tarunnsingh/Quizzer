@@ -6,12 +6,12 @@
   "commit": false,
   "contributors": [
     {
-      "login": "Ask-Subhasmita",
-      "name": "Subhasmita Swain",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/57298668?v=4",
-      "profile": "https://github.com/Ask-Subhasmita",
+      "login": "Souvikns",
+      "name": "souvik",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/41781438?v=4",
+      "profile": "https://souvik210899.herokuapp.com/",
       "contributions": [
-        "content"
+        "code"
       ]
     },
     {
@@ -21,6 +21,15 @@
       "profile": "http://www.linkedin.com/in/imabp",
       "contributions": [
         "code"
+      ]
+    },
+        {
+      "login": "Ask-Subhasmita",
+      "name": "Subhasmita Swain",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/57298668?v=4",
+      "profile": "https://github.com/Ask-Subhasmita",
+      "contributions": [
+        "content"
       ]
     }
   ],
