@@ -1,6 +1,6 @@
 <p align=center>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <img src="./assets/ReadmeHeader.png"/>
 </p>
@@ -79,6 +79,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Ask-Subhasmita"><img src="https://avatars2.githubusercontent.com/u/57298668?v=4" width="100px;" alt=""/><br /><sub><b>Subhasmita Swain</b></sub></a><br /><a href="#content-Ask-Subhasmita" title="Content">🖋</a></td>
+    <td align="center"><a href="https://rohit.nl"><img src="https://avatars1.githubusercontent.com/u/69147709?v=4" width="100px;" alt=""/><br /><sub><b>Rohit Jethoe</b></sub></a><br /><a href="https://github.com/Ninja-Developers/Quizzer/commits?author=rohitjethoe" title="Code">💻</a></td>
   </tr>
 </table>
 
