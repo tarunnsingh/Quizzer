@@ -13,6 +13,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "imabp",
+      "name": "Abir",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/53480076?v=4",
+      "profile": "http://www.linkedin.com/in/imabp",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
