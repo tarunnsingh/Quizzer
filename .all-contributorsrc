@@ -13,6 +13,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "rohitjethoe",
+      "name": "Rohit Jethoe",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/69147709?v=4",
+      "profile": "https://rohit.nl",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
