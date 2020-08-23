@@ -23,7 +23,7 @@
         "code"
       ]
     },
-        {
+    {
       "login": "Ask-Subhasmita",
       "name": "Subhasmita Swain",
       "avatar_url": "https://avatars2.githubusercontent.com/u/57298668?v=4",
@@ -37,6 +37,15 @@
       "name": "Rohit Jethoe",
       "avatar_url": "https://avatars1.githubusercontent.com/u/69147709?v=4",
       "profile": "https://rohit.nl",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "SingingApple",
+      "name": "Anurag Srivastava",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/39864404?v=4",
+      "profile": "https://github.com/SingingApple",
       "contributions": [
         "code"
       ]
