@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -44,7 +44,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://souvik210899.herokuapp.com/"><img src="https://avatars0.githubusercontent.com/u/41781438?v=4?s=100" width="100px;" alt=""/><br /><sub><b>souvik</b></sub></a><br /><a href="https://github.com/Ninja-Developers/Quizzer/commits?author=Souvikns" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/imabp"><img src="https://avatars3.githubusercontent.com/u/53480076?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abir</b></sub></a><br /><a href="https://github.com/Ninja-Developers/Quizzer/commits?author=imabp" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Ask-Subhasmita"><img src="https://avatars2.githubusercontent.com/u/57298668?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Subhasmita</b></sub></a><br /><a href="#content-Ask-Subhasmita" title="Content">🖋</a></td>
   </tr>
 </table>
 
