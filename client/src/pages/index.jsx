@@ -8,8 +8,6 @@ import {
     Button
 } from '@material-ui/core'
 
-
-
 // importing images
 import question from '../images/questions.svg'
 
@@ -32,6 +30,7 @@ const useStyles = makeStyles(theme => ({
 
 const Index = props => {
     const classes = useStyles()
+
     return (
         <div className={classes.root}>
             <Container>

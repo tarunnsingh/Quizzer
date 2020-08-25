@@ -19,10 +19,10 @@ It also helps you to manage and reform various operations in the quiz, such as r
 ## Getting Sarted 🎉
 This project is built on **MERN** stack, to setup local enviroment follow these steps:
 
-- clone the repo
+- clone the repo 
 - get inside the repo using `cd Quizzer`
-- install the dependencies `npm i`, this will install the dependency for the nodejs enviorment
-- get inside the client folder `cd client`
+- install the dependencies `npm i`, this will install the dependency for the nodejs enviorment 
+- get inside the client folder `cd client` 
 - to install the react dependencies run command `npm i`
 
 - to run the nodejs dev server run `npm run dev-server`
@@ -46,11 +46,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Ask-Subhasmita"><img src="https://avatars2.githubusercontent.com/u/57298668?v=4" width="100px;" alt=""/><br /><sub><b>Subhasmita Swain</b></sub></a><br /><a href="#content-Ask-Subhasmita" title="Content">🖋</a></td>
     <td align="center"><a href="https://rohit.nl"><img src="https://avatars1.githubusercontent.com/u/69147709?v=4" width="100px;" alt=""/><br /><sub><b>Rohit Jethoe</b></sub></a><br /><a href="https://github.com/Ninja-Developers/Quizzer/commits?author=rohitjethoe" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/SingingApple"><img src="https://avatars2.githubusercontent.com/u/39864404?v=4" width="100px;" alt=""/><br /><sub><b>Anurag Srivastava</b></sub></a><br /><a href="https://github.com/Ninja-Developers/Quizzer/commits?author=SingingApple" title="Code">💻</a></td>
-
-    <td align="center"><a href="https://github.com/thePlebDev"><img src="https://avatars2.githubusercontent.com/u/47083513?s=400&u=326b68c55b9aa1e12ea49a01e313264c5df9f113&v=4" width="100px;" alt=""/><br /><sub><b>ThePlebDev</b></sub></a><br /><a href="https://github.com/Ninja-Developers/Quizzer/commits?author=Souvikns" title="Code">💻</a></td>
-
     <td align="center"><a href="https://github.com/DeadSpoon18"><img src="https://avatars0.githubusercontent.com/u/58849158?v=4" width="100px;" alt=""/><br /><sub><b>DeadSpoon18</b></sub></a><br /><a href="https://github.com/Ninja-Developers/Quizzer/commits?author=DeadSpoon18" title="Documentation">📖</a></td>
-
   </tr>
 </table>
 
