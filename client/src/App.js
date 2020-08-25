@@ -8,7 +8,6 @@ import {
 // importing pages
 import Index from './pages/index'
 import CreateQuiz from "./pages/create.quiz";
-import Footer from './components/footer'
 
 // importing custom components
 import Navbar from "./components/navbar";
@@ -25,7 +24,6 @@ function App() {
                     </Route>
                     <Route exact path={'/create'} component={CreateQuiz}/>
                 </Switch>
-                  <Footer/>
             </BrowserRouter>
 
         </div>

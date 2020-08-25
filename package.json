@@ -29,8 +29,7 @@
     "mongoose": "^5.10.0",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
-    "passport-local": "^1.0.0",
-    "react-swipeable-views": "^0.13.9"
+    "passport-local": "^1.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
