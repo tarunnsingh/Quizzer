@@ -16,7 +16,7 @@ It also helps you to manage and reform various operations in the quiz, such as r
 </p>
 
 ---
-## Getting Sarted 🎉
+## Getting Started 🎉
 This project is built on **MERN** stack, to setup local enviroment follow these steps:
 
 - clone the repo 
@@ -53,5 +53,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## Contributors
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
