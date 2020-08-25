@@ -1,7 +1,8 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-<!--[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)-->
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <p align="center">
 <img src="./assets/ReadmeHeader.png"/>
 </p>
@@ -58,7 +59,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<!--
 <table>
   <tr>
     <td align="center"><a href="https://souvik210899.herokuapp.com/"><img src="https://avatars0.githubusercontent.com/u/41781438?v=4" width="100px;" alt=""/><br /><sub><b>souvik</b></sub></a><br /><a href="https://github.com/Ninja-Developers/Quizzer/commits?author=Souvikns" title="Code">💻</a></td>
@@ -69,7 +69,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/DeadSpoon18"><img src="https://avatars0.githubusercontent.com/u/58849158?v=4" width="100px;" alt=""/><br /><sub><b>DeadSpoon18</b></sub></a><br /><a href="https://github.com/Ninja-Developers/Quizzer/commits?author=DeadSpoon18" title="Documentation">📖</a></td>
   </tr>
 </table>
--->
+
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
