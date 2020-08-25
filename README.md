@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -47,6 +47,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Ask-Subhasmita"><img src="https://avatars2.githubusercontent.com/u/57298668?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Subhasmita</b></sub></a><br /><a href="#content-Ask-Subhasmita" title="Content">🖋</a></td>
     <td align="center"><a href="https://rohit.nl/"><img src="https://avatars1.githubusercontent.com/u/69147709?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rohit Jethoe</b></sub></a><br /><a href="https://github.com/Ninja-Developers/Quizzer/commits?author=rohitjethoe" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/SingingApple"><img src="https://avatars2.githubusercontent.com/u/39864404?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anurag Srivastava</b></sub></a><br /><a href="https://github.com/Ninja-Developers/Quizzer/commits?author=SingingApple" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/DeadSpoon18"><img src="https://avatars0.githubusercontent.com/u/58849158?v=4?s=100" width="100px;" alt=""/><br /><sub><b>DeadSpoon18</b></sub></a><br /><a href="https://github.com/Ninja-Developers/Quizzer/commits?author=DeadSpoon18" title="Documentation">📖</a></td>
   </tr>
 </table>
 
