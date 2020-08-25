@@ -32,7 +32,6 @@
     "passport-local": "^1.0.0"
   },
   "devDependencies": {
-    "all-contributors-cli": "^6.17.2",
     "nodemon": "^2.0.4"
   }
 }
