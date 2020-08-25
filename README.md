@@ -17,7 +17,7 @@ It also helps you to manage and reform various operations in the quiz, such as r
 </p>
 
 ---
-## Getting Started 🎉
+## Getting Sarted 🎉
 This project is built on **MERN** stack, to setup local enviroment follow these steps:
 
 - clone the repo 
