@@ -63,6 +63,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "lee00286",
+      "name": "Yena Lee",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/33945159?v=4",
+      "profile": "https://lee00286.github.io/portfolio/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
