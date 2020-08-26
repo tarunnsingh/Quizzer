@@ -31,6 +31,7 @@ This project is built on **MERN** stack, to setup local enviroment follow these 
 ---
 
 
+## Contributors
 
 ## Contributors ✨
 
