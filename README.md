@@ -1,7 +1,7 @@
-<p align=center>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+<p align="center">
 <img src="./assets/ReadmeHeader.png"/>
 </p>
 
@@ -16,7 +16,7 @@ It also helps you to manage and reform various operations in the quiz, such as r
 </p>
 
 ---
-## Getting Sarted 🎉
+## Getting Started 🎉
 This project is built on **MERN** stack, to setup local enviroment follow these steps:
 
 - clone the repo 
@@ -31,6 +31,7 @@ This project is built on **MERN** stack, to setup local enviroment follow these 
 ---
 
 
+## Contributors
 
 ## Contributors ✨
 
