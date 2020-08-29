@@ -95,14 +95,3 @@ This project is built on **MERN** stack, to setup local enviroment follow these 
     </td>
 </tr>
 </table>
-
-<b>Anurag Srivastava</b></sub></a><br /><a href="https://github.com/Ninja-Developers/Quizzer/commits?author=SingingApple" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/DeadSpoon18"><img src="https://avatars0.githubusercontent.com/u/58849158?v=4" width="100px;" alt=""/><br /><sub><b>DeadSpoon18</b></sub></a><br /><a href="https://github.com/Ninja-Developers/Quizzer/commits?author=DeadSpoon18" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
